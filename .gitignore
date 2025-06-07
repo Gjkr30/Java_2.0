@@ -1,0 +1,24 @@
+# Build artifacts
+*.class
+*.jar
+/target
+/bin
+/out
+
+# IDE-specific files
+.idea/
+.settings/
+.classpath
+.project
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Dependency management files
+/node_modules
